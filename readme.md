@@ -3,7 +3,8 @@
 ## Dependencies
 1. Need Android SDK first
 2. Phone with USB Debugging enabled
-3. NPM or NodeJS installed on your system
+3. NPM or NodeJS installed on your system (https://www.npmjs.com/get-npm)
+4. More visit https://reactnative.dev/docs/environment-setup
 
 ## Installation
 1. install node modules with `npm install`
